@@ -1,0 +1,13 @@
+{
+  "author": "Linto Cheeran <linto.cet@gmail.com>",
+  "dependencies": {},
+  "description": "etherpad-lite OAR drafting helpers",
+  "homepage": "https://github.com/hedcet/ep_oar#readme",
+  "name": "ep_oar",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HedCET/ep_oar.git"
+  },
+  "license": "private"
+}
