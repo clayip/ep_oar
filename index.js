@@ -9,3 +9,7 @@ exports.aceAttribClasses = (hookName, attr, cb) => {
 
   cb(attr);
 };
+
+exports.exportHtmlAdditionalTags = (hook, pad, cb) => {
+  cb(attrs);
+};

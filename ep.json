@@ -9,7 +9,8 @@
       },
       "hooks": {
         "aceAttribClasses": "ep_oar/index",
-        "collectContentPre": "ep_oar/static/js/shared"
+        "collectContentPre": "ep_oar/static/js/shared",
+        "exportHtmlAdditionalTags" : "ep_oar/index"
       },
       "name": "main"
     }
